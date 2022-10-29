@@ -20,6 +20,7 @@
 
 ## Live Demo (if available)
 
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -47,6 +48,9 @@ git clone https://github.com/letarulinda/movie-capstone
 - Run webpack dev server using npm run start command
 
 ### Deployment
+
+### Video of My project
+C:\Users\BRIAN\Documents\Zoom\2022-10-29 16.33.31 Linda Masia's Zoom Meeting
 
 Author:
 👤 Letaru Linda Masia
