@@ -1,32 +1,40 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Movie Capstone Project
 
-> Description the project.
+> A website display list of movies from an external API. The webapp consist of tow user interfaces. It have home page with movies and popup window with detail of given movie. User can also add comments and view comments on popup window.
 
+![](./src/assets/images/movie.png)
+![](./src/assets/images/movie0.png)
+![](./src/assets/images/movie1.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- CSS
+- Javascript
+- Movie API
+- Webpack
+- JEST
+- ES6
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
-
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
+git clone https://github.com/letarulinda/movie-capstone
 
 ### Prerequisites
 
+- [Movie API](https://api.tvmaze.com/shows)
+- `Webpack installation`
+- `SSH key for github linked to git on local environment`
+- `Html & CSS basics`
+
 ### Setup
+
+- If it suits you, on your local computer, create a directory in your preferred location (e.g in the Desktop or Document directory)
 
 ### Install
 
@@ -34,42 +42,25 @@ To get a local copy up and running follow these simple example steps.
 
 ### Run tests
 
+- Install project dependencies (libraries) using `npm install` command
+- Run webpack build using npm run build command
+- Run webpack dev server using npm run start command
+
 ### Deployment
 
+Author:
+👤 Letaru Linda Masia
 
+GitHub: https://github.com/letarulinda
+LinkedIn: www.linkedin.com/in/linda-letaru-masia-7b48a9175
+Link to online version
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
+Show your support
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
+Acknowledgments
+This project is GPL licensed.
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
