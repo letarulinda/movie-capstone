@@ -50,7 +50,7 @@ git clone https://github.com/letarulinda/movie-capstone
 ### Deployment
 
 ### Video of My project
-file:///C:/Users/BRIAN/Documents/Zoom/2022-10-29%2016.33.31%20Linda%20Masia's%20Zoom%20Meeting/video2232221055.mp4
+https://drive.google.com/drive/u/0/folders/1OtOIg5-_ip_sWE15TcVQigTVRYyODaB4
 
 Author:
 
