@@ -50,7 +50,7 @@ git clone https://github.com/letarulinda/movie-capstone
 ### Deployment
 
 ### Video of My project
-https://drive.google.com/drive/u/0/folders/1OtOIg5-_ip_sWE15TcVQigTVRYyODaB4
+https://drive.google.com/file/d/1X6dJJidXbT9PgMDLBFQVQo1MfRC40wLB/view?usp=sharing
 
 Author:
 
