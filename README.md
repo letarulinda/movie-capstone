@@ -53,11 +53,15 @@ git clone https://github.com/letarulinda/movie-capstone
 C:\Users\BRIAN\Documents\Zoom\2022-10-29 16.33.31 Linda Masia's Zoom Meeting
 
 Author:
+
 👤 Letaru Linda Masia
 
 GitHub: https://github.com/letarulinda
+
 LinkedIn: www.linkedin.com/in/linda-letaru-masia-7b48a9175
+
 Link to online version
+
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
